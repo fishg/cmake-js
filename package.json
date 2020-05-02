@@ -34,7 +34,7 @@
     "memory-stream": "0",
     "npmlog": "^1.2.0",
     "rc": "^1.2.7",
-    "request": "^2.54.0",
+    "request": "^2.88.1",
     "semver": "^5.0.3",
     "splitargs": "0",
     "tar": "^4",
